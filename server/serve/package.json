@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "digital-product-generator-server": "file:.."
+  }
+}
