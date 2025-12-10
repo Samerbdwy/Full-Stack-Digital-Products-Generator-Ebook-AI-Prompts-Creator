@@ -45,4 +45,4 @@ A full-stack platform that fully automates the creation of info products, includ
 
 ## Demo
 
-- [Demo]([#](https://www.linkedin.com/feed/update/urn:li:activity:7404368606366760960/))  
+- [Demo](https://www.linkedin.com/feed/update/urn:li:activity:7404368606366760960/)
