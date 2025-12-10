@@ -189,7 +189,7 @@ const EbookGenerator = () => {
 
           <div>
             <label className="block text-sm sm:text-base font-medium text-gray-700 mb-2">
-              Number of Chapters *
+              Estimated Number of Chapters *
             </label>
             <input
               type="number"
