@@ -45,4 +45,4 @@ A full-stack platform that fully automates the creation of info products, includ
 
 ## Demo
 
-- [Live Demo](#)  
+- [Demo](#)  
