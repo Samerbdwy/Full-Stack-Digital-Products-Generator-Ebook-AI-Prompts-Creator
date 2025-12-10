@@ -1,16 +1,48 @@
-# React + Vite
+# Full Stack Digital Products Generator – Ebook & AI Prompts Creator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack platform that fully automates the creation of info products, including ebooks and AI prompts, saving 100% of manual content creation time.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## React Compiler
+- Automatically generates ebooks with:  
+  - Titles  
+  - Chapters  
+  - Examples  
+  - Key takeaways  
+- Generates AI prompts: 0–100 per API call  
+  - 1 API call for 5-chapter ebooks  
+  - 4 API calls for 20-chapter ebooks  
+- PDF export of ebooks and AI prompts via PDFKit  
+- Secure user authentication and account management  
+- Fully eliminates manual work for creating info products  
+- Scalable platform capable of producing multiple products daily  
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React, Tailwind CSS  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB  
+- **AI Integration:** Gemini APIs  
+- **PDF Export:** PDFKit  
+
+---
+
+## How It Works
+
+1. User logs in or signs up.  
+2. Enter a niche/topic and optional subtopics or chapters.  
+3. The system calls Gemini APIs to generate content:  
+   - Ebook chapters, examples, key takeaways  
+   - AI prompts (0–100 per API call)  
+4. Content is compiled into a PDF and ready for download.  
+5. Multiple digital products can be generated daily with no manual effort.  
+
+---
+
+## Demo
+
+- [Live Demo](#)  
